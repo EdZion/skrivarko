@@ -11,6 +11,7 @@ public class LinkedList {
     /**
      * Constructor to create an empty list.
      */
+
     public LinkedList() {
         first = null;
     }
@@ -53,5 +54,6 @@ public class LinkedList {
     public boolean isEmpty() {
         return size() == 0;
     }
+
 
 }
