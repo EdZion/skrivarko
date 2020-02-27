@@ -56,6 +56,7 @@ public class LinkedListTest {
         assertEquals(2,l.size());
     }
 
+
     @Test
     public void removeFirstShouldWork() {
         LinkedList l = new LinkedList();
@@ -80,5 +81,5 @@ public class LinkedListTest {
         assertEquals("Test",l.removeFirst());
     }
 
-    
+
 }

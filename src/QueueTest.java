@@ -8,6 +8,7 @@ import static org.junit.Assert.*;
  *
  * @author Magnus Silverdal
  */
+
 public class QueueTest {
     @Test
     public void shouldBeAbleToCreateQueue() {
