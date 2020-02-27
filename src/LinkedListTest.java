@@ -80,4 +80,5 @@ public class LinkedListTest {
         assertEquals("Test",l.removeFirst());
     }
 
+    
 }
